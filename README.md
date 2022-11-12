@@ -8,7 +8,9 @@
 
 > ## 💫 [Refactoring](Backend/Refactoring/README.md)
 
+> ## 😁 [개인 정리](Backend/personalStudy/README.md)
 
+<br>
 
 # 📀 **ComputerScience**
 >## 💾 [**CS Study**](ComputerScience/Study/README.md)
