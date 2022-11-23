@@ -12,5 +12,12 @@
 
 <br>
 
+# ⚡ Algorithm
+
+## ❗ [Study](Algorithm/Study/README.md)
+
+<br>
+
 # 📀 **ComputerScience**
 >## 💾 [**CS Study**](ComputerScience/Study/README.md)
+
